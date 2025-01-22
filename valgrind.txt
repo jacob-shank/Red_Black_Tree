@@ -1,0 +1,14 @@
+==3173269== Memcheck, a memory error detector
+==3173269== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==3173269== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==3173269== Command: Tree.exe
+==3173269== Parent PID: 3173268
+==3173269== 
+==3173269== 
+==3173269== HEAP SUMMARY:
+==3173269==     in use at exit: 0 bytes in 0 blocks
+==3173269==   total heap usage: 13 allocs, 13 frees, 82,664 bytes allocated
+==3173269== 
+==3173269== All heap blocks were freed -- no leaks are possible
+==3173269== 
+==3173269== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
